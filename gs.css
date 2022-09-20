@@ -1,0 +1,29 @@
+.speech{
+    font-size: 5px;
+    color: black;
+}
+.song{
+    font-size: 10px;
+    color: black;
+}
+.direction{
+    font-size: 8px;
+    color: black;
+    background-color:antiquewhite;
+}
+.name{
+    font-size: 12px;
+    color:black;
+}
+.direction:hover{
+    color: tomato;
+    background-color: brown;
+}
+.LADY S{
+    font-style:italic;
+    color: darkblue;
+}
+.MR.W{
+    font-style:italic;
+    color: aquamarine;
+}
